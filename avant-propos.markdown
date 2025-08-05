@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Avant propos"
-permalink: /
+permalink: /avant-propos/
 ---
 
 # Avant propos
